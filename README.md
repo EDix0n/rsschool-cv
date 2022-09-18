@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/EDix0n/rsschool-cv/tree/gh-pages
